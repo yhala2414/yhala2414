@@ -5,7 +5,9 @@
 <div align="center">
   <p>🎓 CS Sophomore at Sichuan University | 🤖 AI Full-stack / Agent Development</p>
   <p>📍 Chengdu | 🧠 ENTP | 🛠️ TypeScript-first Maker | ⚽ Football Fan</p>
-  <p><b>Currently looking for AI full-stack / Agent development opportunities.</b></p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Open%20to%20Opportunities-AI%20Full--stack%20%2F%20Agent%20Development-14b8a6?style=for-the-badge&labelColor=111827" alt="Open to AI full-stack / Agent development opportunities" />
+  </p>
 </div>
 
 ---
