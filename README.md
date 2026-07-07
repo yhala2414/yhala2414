@@ -19,6 +19,8 @@
 I'm a product-minded builder who likes turning real-life friction into small but usable products.  
 Most of my projects start from a stuck point: travel ideas that never become trips, thoughts that are hard to say, learning plans that are hard to estimate, or repeated manual work that should become a tool.
 
+> If you’ve seen my nickname, you’ve probably guessed I’m a die-hard Real Madrid fan — and you’re absolutely right. My love for the club began with Sergio Ramos and the legendary 9th Champions League trophy. The UCL titles in 2022 and 2024 have always kept me motivated to keep building and pushing forward.
+
 <h3>🧭 What I Keep Exploring</h3>
 
 - 🤖 Productized AI beyond the chat box
@@ -146,7 +148,7 @@ Most of my projects start from a stuck point: travel ideas that never become tri
 
 - 🧠 ENTP: strongest when I can follow a meaningful problem and shape it into something usable
 - 📍 Based in Chengdu
-- ⚽ Football: Real Madrid, Chengdu Rongcheng, China national team
+- ⚽ Football Fan: Real Madrid | Chengdu Rongcheng | China national team
 - 🚇 Cities & transport: metro systems, aviation, routes, timing, and movement
 
 ---
