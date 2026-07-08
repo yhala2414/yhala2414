@@ -34,6 +34,22 @@ Most of my projects start from a stuck point: travel ideas that never become tri
   🚀 Projects
 </h2>
 
+### Open Collaboration
+
+<table>
+<tr>
+<td>
+<h4 align="center">&#129309; <a href="https://github.com/yhala2414/ai-collaboration-operating-system">AI Collaboration Operating System</a></h4>
+<p><b>Open Collaboration &middot; Co-creation Invitation</b></p>
+<p>A lightweight skill experiment for helping humans and AI agents build better collaboration habits in small and early-stage projects.</p>
+<ul>
+<li>Project context, authority, scope boundaries, verification, and retrospectives</li>
+<li>Looking for real use cases, feedback, examples, and collaborators</li>
+</ul>
+</td>
+</tr>
+</table>
+
 ### Built & Usable
 
 <table>
