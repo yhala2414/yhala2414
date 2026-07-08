@@ -27,7 +27,7 @@ Most of my projects start from a stuck point: travel ideas that never become tri
 - 🧩 Product flows that move people from intent to action
 - 🛠️ Tools that turn repeated friction into reusable workflows
 - ✍️ Documentation systems that help people and AI collaborate
-- ✨ Interesting hackathons with people who care about ideas
+- ✨ Interesting hackathons and builders who care about ideas.
 
 ---
 
