@@ -19,15 +19,16 @@
 I'm a product-minded builder who likes turning real-life friction into small but usable products.  
 Most of my projects start from a stuck point: travel ideas that never become trips, thoughts that are hard to say, learning plans that are hard to estimate, or repeated manual work that should become a tool.
 
+Code is the material I use most often, but what keeps me building is the act of shaping an idea into something other people can actually use.
+
 > If you know my nickname, you probably know I'm a Real Madrid fan. Football has always taught me persistence and the joy of building something bigger together.
 
-<h3>🧭 What I Keep Exploring</h3>
+<h3>🧭 Currently Thinking</h3>
 
-- 🤖 Productized AI beyond the chat box
-- 🧩 Product flows that move people from intent to action
-- 🛠️ Tools that turn repeated friction into reusable workflows
-- ✍️ Documentation systems that help people and AI collaborate
-- ✨ Interesting hackathons with people who care about ideas
+- 🤖 How AI can become part of real life instead of another chat box
+- 🧩 What makes people move from intention into action
+- 🛠️ How repeated friction turns into reusable workflows
+- ✍️ How builders, documents, and AI agents can collaborate better
 
 ---
 
@@ -163,10 +164,10 @@ Most of my projects start from a stuck point: travel ideas that never become tri
   ⚽ Beyond Code
 </h2>
 
-- 🧠 ENTP: strongest when I can follow a meaningful problem and shape it into something usable
+- 🧠 ENTP: strongest when a problem has enough room to explore, connect, and turn into something usable
 - 📍 Based in Chengdu
 - ⚽ Football Fan: Real Madrid | Chengdu Rongcheng | China national team
-- 🚇 Cities & transport: metro systems, aviation, routes, timing, and movement
+- 🚇 Cities & transport: metro systems, aviation, routes, timing, and movement — small systems that quietly shape daily life
 
 ---
 
@@ -174,9 +175,9 @@ Most of my projects start from a stuck point: travel ideas that never become tri
   🎯 Current Focus
 </h2>
 
-- 🤖 AI full-stack development
-- 🧩 Agentic workflows and productized agents
-- 🛠️ Practical tools that reduce repeated manual work
+- 🤖 Building AI full-stack products that feel useful outside demos
+- 🧩 Exploring agentic workflows that help people take the next step
+- 🛠️ Turning repeated manual work into practical tools
 - 🤍 Hala Madrid
 
 
