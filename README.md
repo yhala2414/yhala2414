@@ -29,6 +29,7 @@ Code is the material I use most often, but what keeps me building is the act of 
 - 🧩 What makes people move from intention into action
 - 🛠️ How repeated friction turns into reusable workflows
 - ✍️ How builders, documents, and AI agents can collaborate better
+- ✨ Interesting hackathons and builders who care about ideas.
 
 ---
 
