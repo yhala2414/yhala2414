@@ -168,6 +168,16 @@ Code is the material I use most often, but what keeps me building is the act of 
 ---
 
 <h2 align="center">
+  📊 Build Activity
+</h2>
+
+<p align="center">
+  <img src="assets/metrics/build-activity.svg" width="100%" alt="Selected programming languages and recent public GitHub activity" />
+</p>
+
+---
+
+<h2 align="center">
   ⚽ Beyond Code
 </h2>
 

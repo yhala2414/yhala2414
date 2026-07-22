@@ -1,0 +1,55 @@
+name: Build Activity Metrics
+
+on:
+  schedule:
+    # Every three days at 09:17 Asia/Shanghai (01:17 UTC).
+    - cron: "17 1 */3 * *"
+  workflow_dispatch:
+
+concurrency:
+  group: profile-build-activity-metrics
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Generate build activity metrics
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ github.token }}
+          user: yhala2414
+          template: classic
+          filename: assets/metrics/build-activity.svg
+          base: ""
+          config_display: columns
+          config_order: languages, activity
+          config_timezone: Asia/Shanghai
+
+          repositories_forks: no
+          repositories_skipped: yhala2414/yhala2414
+
+          plugin_languages: yes
+          plugin_languages_indepth: no
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          plugin_languages_limit: 5
+          plugin_languages_ignored: html, css, shell, jupyter notebook
+
+          plugin_activity: yes
+          plugin_activity_limit: 4
+          plugin_activity_days: 30
+          plugin_activity_visibility: public
+          plugin_activity_timestamps: yes
+          plugin_activity_filter: push, release, pr, issue, review, ref/create
+
+          output_action: commit
+          output_condition: data-changed
+          committer_message: "chore: update build activity metrics [skip ci]"
+          retries: 2
+          retries_delay: 120
